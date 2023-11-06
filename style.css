@@ -1,0 +1,36 @@
+a {
+  background: rgb(251, 255, 1);
+  color: rgb(0, 0, 0);
+  border: 0;
+  padding: 30px;
+  margin: 20px;
+}
+
+.header {
+  margin-top: -50px;
+  width: 100%;
+  height: 50px;
+  background: #00ff33;
+  color: rgb(0, 0, 0);
+  margin-bottom: 50px;
+  padding: 20px;
+}
+body{
+}
+h2 {
+  padding-top: 10px;
+}
+
+
+a .menu{
+  text-decoration:none; /*menghilangkan garis bawah*/
+  color: #000; /*memberi warna hitam*/
+  font-weight:bold; /*menebalkan font menu*/
+}
+li {
+  display:inline; /*membuat menu menjadi Horizontal*/
+}
+h1{
+  color: white;
+}
+
